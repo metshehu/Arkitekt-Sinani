@@ -11,7 +11,7 @@ export default function App() {
         <Route path="/" element={<Home />} />
         <Route path="/drejtime/:sectionId?" element={<Drejtime />} />
 
-        <Route path="/about" element={<About />} />
+        <Route path="/Reth Nesh" element={<About />} />
         <Route path="/staff" element={<Staff/>} />
       </Routes>
     </Router>
