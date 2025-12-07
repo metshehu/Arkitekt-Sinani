@@ -99,6 +99,7 @@ export default function Drejtime() {
         "/kabinetet/nder1.jpg",
         "/kabinetet/nder2.jpg",
         "/kabinetet/nder3.jpeg",
+        "/kabinetet/nder4.jpeg",
       ],
     },
     {
