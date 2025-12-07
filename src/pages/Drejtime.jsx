@@ -140,8 +140,9 @@ export default function Drejtime() {
       desc: "Mirëmbajmë dhe optimizojmë rrjete teknologjike, zhvillojmë softuerë dhe përgatisim profesionistë të epokës dixhitale që lidh botën përmes teknologjisë.",
 
       image: [
-        "/kabinetet/Kabineti i Informatikës 2.jpeg",
-        "/kabinetet/Kabineti i Informatikës1.jpeg",
+
+        "/kabinetet/Info123.jpeg",
+        "/kabinetet/Informatikës2.jpeg",
       ],
     },
   ];
