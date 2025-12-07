@@ -108,7 +108,7 @@ export default function Drejtime() {
 
       image: [
         "/kabinetet/gj1.jpeg",
-        "/kabinetet/Kabineti i Metalurgjisë dhe Gjeologjisë2.jpeg",
+        "/kabinetet/gj33.jpeg",
 
         "/kabinetet/gj2.jpeg",
       ],
