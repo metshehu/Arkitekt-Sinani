@@ -96,8 +96,9 @@ export default function Drejtime() {
       desc: "Krijojmë bazat e zhvillimit të qyteteve dhe infrastrukturës moderne me përkushtim, saktësi dhe përgjegjësi profesionale.",
 
       image: [
-        "/kabinetet/ngro1.jpeg",
-        "/kabinetet/ngro2.jpeg",
+        "/kabinetet/nder1.jpg",
+        "/kabinetet/nder2.jpg",
+        "/kabinetet/nder3.jpeg",
       ],
     },
     {
