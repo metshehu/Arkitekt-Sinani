@@ -90,7 +90,7 @@ const staffData = [
 
   {
     emri: "Shadije Pllana Hoti",
-    titulli: "Program parashkollor",
+    titulli: "",
   },
 
   { emri: "Veton Citaku", titulli: "Edukatë fizike" },
@@ -102,17 +102,17 @@ const staffData = [
 
 
   
-  { emri: "Ili Berisha", titulli: "Teknologji ushqimore - Këshilltar i karrierës" },
+  { emri: "Ilir Berisha", titulli: "Teknologji ushqimore - Këshilltar i karrierës" },
   { emri: "Fidan Kamberi", titulli: "Matematikë" },
   { emri: "Majlinda Seferi", titulli: "Informatikë" },
   { emri: "Vesel Neziri", titulli: "Metalurg" },
 
   // Stafi teknik
-  { emri: "Izet Selaci", titulli: "Punëtor teknik pastrues" },
-  { emri: "Fehmi Voca", titulli: "Punëtor teknik pastrues" },
-  { emri: "Lavdim Voca", titulli: "Punëtor teknik pastrues" },
-  { emri: "Fehmi Uka", titulli: "Punëtor teknik pastrues" },
-  { emri: "Selami Januzi", titulli: "Punëtor teknik pastrues" },
+  { emri: "Izet Selaci", titulli: "Punëtor teknik - pastrues" },
+  { emri: "Fehmi Voca", titulli: "Punëtor teknik - pastrues" },
+  { emri: "Lavdim Voca", titulli: "Punëtor teknik - pastrues" },
+  { emri: "Fehmi Uka", titulli: "Punëtor teknik - pastrues" },
+  { emri: "Selami Januzi", titulli: "Punëtor teknik - pastrues" },
 
   // Roje & Fokist
   { emri: "Ilir Syla", titulli: "Roje e natës" },
